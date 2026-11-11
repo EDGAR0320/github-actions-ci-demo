@@ -1,2 +1,2 @@
 # github-actions-ci-demo
-COM610-TRABAJO EN LA NUBE
+GitHub Actions CI Demo
